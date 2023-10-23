@@ -1,7 +1,8 @@
 # Hi there, I'm Bright 👋
 <p align="center">
-![Header Image](https://media.istockphoto.com/id/1284271878/photo/javascript-inscription-against-laptop-and-code-background-learn-javascript-programming.jpg?s=612x612&w=0&k=20&c=H9FI5X3ZBQIyEijvhJc-jv5McwCh-BxqQPxee9Aoa08=)
+  <img src = "https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png"/>
 </p>
+
 ## 🚀 About Me
 I'm a passionate MERN stack developer with a keen interest in building scalable and efficient web applications. I enjoy working on challenging projects and constantly strive to learn new technologies to enhance my skill set.
 
