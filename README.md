@@ -1,7 +1,4 @@
 # Hi there, I'm Bright 👋
-<p align="center">
-  <img src = "https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png"/>
-</p>
 
 ## 🚀 About Me
 I'm a passionate MERN stack developer with a keen interest in building scalable and efficient web applications. I enjoy working on challenging projects and constantly strive to learn new technologies to enhance my skill set.
