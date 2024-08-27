@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate MERN stack developer with a keen interest in building scalable and efficient web applications. I enjoy working on challenging projects and constantly strive to learn new technologies to enhance my skill set.
 
-[Link to my CV](https://drive.google.com/file/d/1tz34_woplRoj4S1KAtA2wz492CbHzZT7/view?usp=drive_link)
+[Link to my CV](https://drive.google.com/file/d/12bzJorILS2g27m5kuESz1o9sQB8rN62J/view?usp=drive_link)
 
 ## 🔧 Tech Stack
 - **Front-end:** React, Redux, HTML, CSS, JavaScript, NextJs, MaterialUI
